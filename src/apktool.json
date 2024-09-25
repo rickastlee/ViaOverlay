@@ -1,0 +1,27 @@
+{
+  "apkFileName": "Monet Pink_1.0_src.apk",
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": ["resources.arsc"],
+  "compressionType": false,
+  "sparseResources": false,
+  "version": "2.4.0-240623",
+  "sharedLibrary": false,
+  "VersionInfo": {
+    "versionName": "1.0",
+    "versionCode": "1"
+  },
+  "UsesFramework": {
+    "ids": [30],
+    "tag": null
+  },
+  "unknownFiles": {},
+  "apkFilePath": "/storage/emulated/0/ViaOverlay/Monet Pink_1.0.apk",
+  "isFrameworkApk": false,
+  "sdkInfo": {
+    "minSdkVersion": "30",
+    "targetSdkVersion": "30"
+  }
+}

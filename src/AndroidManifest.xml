@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    android:compileSdkVersion="30"
+    android:compileSdkVersionCodename="11"
+    package="com.rickastlee.viaoverlay"
+    platformBuildVersionCode="30"
+    platformBuildVersionName="11"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <overlay
+        android:priority="1"
+        android:targetPackage="com.rickastlee.viamonet" />
+    <application
+        android:label="Via Overlay"
+        android:hasCode="false"
+        android:extractNativeLibs="false" />
+</manifest>
